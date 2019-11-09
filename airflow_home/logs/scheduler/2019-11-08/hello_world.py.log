@@ -1,0 +1,542 @@
+[2019-11-08 19:13:34,326] {jobs.py:385} INFO - Started process (PID=42240) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:34,329] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:34,331] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:34,332] {logging_mixin.py:95} INFO - [2019-11-08 19:13:34,331] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:34,396] {logging_mixin.py:95} INFO - [2019-11-08 19:13:34,396] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:34,397] {logging_mixin.py:95} INFO - [2019-11-08 19:13:34,396] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:34,426] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:34,479] {logging_mixin.py:95} INFO - [2019-11-08 19:13:34,478] {models.py:4191} INFO - Creating ORM DAG for hello_world
+
+[2019-11-08 19:13:34,622] {logging_mixin.py:95} INFO - [2019-11-08 19:13:34,622] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:34,623] {logging_mixin.py:95} INFO - [2019-11-08 19:13:34,623] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:34.622980+00:00
+
+[2019-11-08 19:13:34,628] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.302 seconds
+[2019-11-08 19:13:35,751] {jobs.py:385} INFO - Started process (PID=42241) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:35,755] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:35,756] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:35,757] {logging_mixin.py:95} INFO - [2019-11-08 19:13:35,756] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:35,819] {logging_mixin.py:95} INFO - [2019-11-08 19:13:35,819] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:35,819] {logging_mixin.py:95} INFO - [2019-11-08 19:13:35,819] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:35,848] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:36,042] {logging_mixin.py:95} INFO - [2019-11-08 19:13:36,042] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:36,044] {logging_mixin.py:95} INFO - [2019-11-08 19:13:36,043] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:36.043339+00:00
+
+[2019-11-08 19:13:36,048] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.297 seconds
+[2019-11-08 19:13:37,171] {jobs.py:385} INFO - Started process (PID=42242) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:37,175] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:37,176] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:37,177] {logging_mixin.py:95} INFO - [2019-11-08 19:13:37,177] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:37,243] {logging_mixin.py:95} INFO - [2019-11-08 19:13:37,243] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:37,244] {logging_mixin.py:95} INFO - [2019-11-08 19:13:37,244] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:37,276] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:37,464] {logging_mixin.py:95} INFO - [2019-11-08 19:13:37,464] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:37,465] {logging_mixin.py:95} INFO - [2019-11-08 19:13:37,465] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:37.464986+00:00
+
+[2019-11-08 19:13:37,470] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.299 seconds
+[2019-11-08 19:13:38,596] {jobs.py:385} INFO - Started process (PID=42243) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:38,600] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:38,601] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:38,602] {logging_mixin.py:95} INFO - [2019-11-08 19:13:38,602] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:38,665] {logging_mixin.py:95} INFO - [2019-11-08 19:13:38,664] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:38,665] {logging_mixin.py:95} INFO - [2019-11-08 19:13:38,665] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:38,694] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:38,914] {logging_mixin.py:95} INFO - [2019-11-08 19:13:38,914] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:38,915] {logging_mixin.py:95} INFO - [2019-11-08 19:13:38,914] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:38.914874+00:00
+
+[2019-11-08 19:13:38,920] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.324 seconds
+[2019-11-08 19:13:40,035] {jobs.py:385} INFO - Started process (PID=42246) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:40,039] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:40,040] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:40,040] {logging_mixin.py:95} INFO - [2019-11-08 19:13:40,040] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:40,103] {logging_mixin.py:95} INFO - [2019-11-08 19:13:40,103] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:40,104] {logging_mixin.py:95} INFO - [2019-11-08 19:13:40,104] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:40,134] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:40,327] {logging_mixin.py:95} INFO - [2019-11-08 19:13:40,326] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:40,328] {logging_mixin.py:95} INFO - [2019-11-08 19:13:40,327] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:40.327573+00:00
+
+[2019-11-08 19:13:40,333] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.298 seconds
+[2019-11-08 19:13:41,459] {jobs.py:385} INFO - Started process (PID=42247) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:41,463] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:41,465] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:41,466] {logging_mixin.py:95} INFO - [2019-11-08 19:13:41,465] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:41,589] {logging_mixin.py:95} INFO - [2019-11-08 19:13:41,589] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:41,590] {logging_mixin.py:95} INFO - [2019-11-08 19:13:41,590] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:41,636] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:41,923] {logging_mixin.py:95} INFO - [2019-11-08 19:13:41,923] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:41,924] {logging_mixin.py:95} INFO - [2019-11-08 19:13:41,924] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:41.924004+00:00
+
+[2019-11-08 19:13:41,929] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.470 seconds
+[2019-11-08 19:13:42,980] {jobs.py:385} INFO - Started process (PID=42249) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:42,983] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:42,984] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:42,985] {logging_mixin.py:95} INFO - [2019-11-08 19:13:42,985] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:43,070] {logging_mixin.py:95} INFO - [2019-11-08 19:13:43,070] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:43,071] {logging_mixin.py:95} INFO - [2019-11-08 19:13:43,071] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:43,104] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:43,294] {logging_mixin.py:95} INFO - [2019-11-08 19:13:43,294] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:43,296] {logging_mixin.py:95} INFO - [2019-11-08 19:13:43,295] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:43.295177+00:00
+
+[2019-11-08 19:13:43,301] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.322 seconds
+[2019-11-08 19:13:44,409] {jobs.py:385} INFO - Started process (PID=42251) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:44,413] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:44,414] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:44,414] {logging_mixin.py:95} INFO - [2019-11-08 19:13:44,414] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:44,476] {logging_mixin.py:95} INFO - [2019-11-08 19:13:44,475] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:44,476] {logging_mixin.py:95} INFO - [2019-11-08 19:13:44,476] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:44,505] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:44,695] {logging_mixin.py:95} INFO - [2019-11-08 19:13:44,694] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:44,696] {logging_mixin.py:95} INFO - [2019-11-08 19:13:44,695] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:44.695504+00:00
+
+[2019-11-08 19:13:44,701] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.292 seconds
+[2019-11-08 19:13:45,738] {jobs.py:385} INFO - Started process (PID=42252) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:45,742] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:45,743] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:45,744] {logging_mixin.py:95} INFO - [2019-11-08 19:13:45,744] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:45,802] {logging_mixin.py:95} INFO - [2019-11-08 19:13:45,802] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:45,803] {logging_mixin.py:95} INFO - [2019-11-08 19:13:45,803] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:45,832] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:46,053] {logging_mixin.py:95} INFO - [2019-11-08 19:13:46,052] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:46,054] {logging_mixin.py:95} INFO - [2019-11-08 19:13:46,053] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:46.053515+00:00
+
+[2019-11-08 19:13:46,059] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.321 seconds
+[2019-11-08 19:13:47,162] {jobs.py:385} INFO - Started process (PID=42253) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:47,166] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:47,167] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:47,168] {logging_mixin.py:95} INFO - [2019-11-08 19:13:47,168] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:47,230] {logging_mixin.py:95} INFO - [2019-11-08 19:13:47,230] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:47,230] {logging_mixin.py:95} INFO - [2019-11-08 19:13:47,230] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:47,259] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:47,444] {logging_mixin.py:95} INFO - [2019-11-08 19:13:47,443] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:47,445] {logging_mixin.py:95} INFO - [2019-11-08 19:13:47,444] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:47.444628+00:00
+
+[2019-11-08 19:13:47,450] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.287 seconds
+[2019-11-08 19:13:48,482] {jobs.py:385} INFO - Started process (PID=42260) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:48,486] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:48,488] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:48,488] {logging_mixin.py:95} INFO - [2019-11-08 19:13:48,488] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:48,556] {logging_mixin.py:95} INFO - [2019-11-08 19:13:48,555] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:48,556] {logging_mixin.py:95} INFO - [2019-11-08 19:13:48,556] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:48,587] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:48,780] {logging_mixin.py:95} INFO - [2019-11-08 19:13:48,780] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:48,782] {logging_mixin.py:95} INFO - [2019-11-08 19:13:48,781] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:48.781246+00:00
+
+[2019-11-08 19:13:48,787] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.305 seconds
+[2019-11-08 19:13:49,903] {jobs.py:385} INFO - Started process (PID=42277) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:49,907] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:49,908] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:49,909] {logging_mixin.py:95} INFO - [2019-11-08 19:13:49,909] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:49,974] {logging_mixin.py:95} INFO - [2019-11-08 19:13:49,974] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:49,975] {logging_mixin.py:95} INFO - [2019-11-08 19:13:49,975] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:50,004] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:50,192] {logging_mixin.py:95} INFO - [2019-11-08 19:13:50,192] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:50,193] {logging_mixin.py:95} INFO - [2019-11-08 19:13:50,192] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:50.192771+00:00
+
+[2019-11-08 19:13:50,198] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.294 seconds
+[2019-11-08 19:13:51,336] {jobs.py:385} INFO - Started process (PID=42297) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:51,340] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:51,341] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:51,342] {logging_mixin.py:95} INFO - [2019-11-08 19:13:51,342] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:51,406] {logging_mixin.py:95} INFO - [2019-11-08 19:13:51,405] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:51,406] {logging_mixin.py:95} INFO - [2019-11-08 19:13:51,406] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:51,453] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:51,649] {logging_mixin.py:95} INFO - [2019-11-08 19:13:51,649] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:51,651] {logging_mixin.py:95} INFO - [2019-11-08 19:13:51,650] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:51.650213+00:00
+
+[2019-11-08 19:13:51,655] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.319 seconds
+[2019-11-08 19:13:52,757] {jobs.py:385} INFO - Started process (PID=42305) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:52,761] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:52,762] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:52,762] {logging_mixin.py:95} INFO - [2019-11-08 19:13:52,762] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:52,821] {logging_mixin.py:95} INFO - [2019-11-08 19:13:52,821] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:52,822] {logging_mixin.py:95} INFO - [2019-11-08 19:13:52,822] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:52,851] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:53,047] {logging_mixin.py:95} INFO - [2019-11-08 19:13:53,047] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:53,049] {logging_mixin.py:95} INFO - [2019-11-08 19:13:53,047] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:53.047867+00:00
+
+[2019-11-08 19:13:53,054] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.297 seconds
+[2019-11-08 19:13:54,080] {jobs.py:385} INFO - Started process (PID=42306) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:54,084] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:54,085] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:54,085] {logging_mixin.py:95} INFO - [2019-11-08 19:13:54,085] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:54,143] {logging_mixin.py:95} INFO - [2019-11-08 19:13:54,142] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:54,143] {logging_mixin.py:95} INFO - [2019-11-08 19:13:54,143] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:54,171] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:54,373] {logging_mixin.py:95} INFO - [2019-11-08 19:13:54,372] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:54,374] {logging_mixin.py:95} INFO - [2019-11-08 19:13:54,373] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:54.373608+00:00
+
+[2019-11-08 19:13:54,379] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.299 seconds
+[2019-11-08 19:13:55,407] {jobs.py:385} INFO - Started process (PID=42314) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:55,410] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:55,412] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:55,412] {logging_mixin.py:95} INFO - [2019-11-08 19:13:55,412] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:55,470] {logging_mixin.py:95} INFO - [2019-11-08 19:13:55,470] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:55,471] {logging_mixin.py:95} INFO - [2019-11-08 19:13:55,470] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:55,499] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:55,695] {logging_mixin.py:95} INFO - [2019-11-08 19:13:55,694] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:55,696] {logging_mixin.py:95} INFO - [2019-11-08 19:13:55,695] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:55.695672+00:00
+
+[2019-11-08 19:13:55,701] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.294 seconds
+[2019-11-08 19:13:56,835] {jobs.py:385} INFO - Started process (PID=42323) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:56,839] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:56,840] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:56,841] {logging_mixin.py:95} INFO - [2019-11-08 19:13:56,840] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:56,899] {logging_mixin.py:95} INFO - [2019-11-08 19:13:56,899] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:56,900] {logging_mixin.py:95} INFO - [2019-11-08 19:13:56,900] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:56,928] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:57,128] {logging_mixin.py:95} INFO - [2019-11-08 19:13:57,127] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:57,129] {logging_mixin.py:95} INFO - [2019-11-08 19:13:57,128] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:57.128671+00:00
+
+[2019-11-08 19:13:57,134] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.299 seconds
+[2019-11-08 19:13:58,249] {jobs.py:385} INFO - Started process (PID=42324) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:58,252] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:58,253] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:58,254] {logging_mixin.py:95} INFO - [2019-11-08 19:13:58,254] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:58,316] {logging_mixin.py:95} INFO - [2019-11-08 19:13:58,316] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:58,317] {logging_mixin.py:95} INFO - [2019-11-08 19:13:58,316] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:58,346] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:58,541] {logging_mixin.py:95} INFO - [2019-11-08 19:13:58,540] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:58,542] {logging_mixin.py:95} INFO - [2019-11-08 19:13:58,541] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:58.541625+00:00
+
+[2019-11-08 19:13:58,547] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.298 seconds
+[2019-11-08 19:13:59,664] {jobs.py:385} INFO - Started process (PID=42328) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:59,668] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:13:59,669] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:13:59,670] {logging_mixin.py:95} INFO - [2019-11-08 19:13:59,670] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:13:59,734] {logging_mixin.py:95} INFO - [2019-11-08 19:13:59,733] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:13:59,734] {logging_mixin.py:95} INFO - [2019-11-08 19:13:59,734] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:13:59,763] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:13:59,957] {logging_mixin.py:95} INFO - [2019-11-08 19:13:59,956] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:13:59,958] {logging_mixin.py:95} INFO - [2019-11-08 19:13:59,957] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:38:59.957659+00:00
+
+[2019-11-08 19:13:59,963] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.299 seconds
+[2019-11-08 19:14:00,990] {jobs.py:385} INFO - Started process (PID=42330) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:01,002] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:01,014] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:01,026] {logging_mixin.py:95} INFO - [2019-11-08 19:14:01,026] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:01,097] {logging_mixin.py:95} INFO - [2019-11-08 19:14:01,097] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:01,097] {logging_mixin.py:95} INFO - [2019-11-08 19:14:01,097] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:01,128] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:01,325] {logging_mixin.py:95} INFO - [2019-11-08 19:14:01,324] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:01,326] {logging_mixin.py:95} INFO - [2019-11-08 19:14:01,325] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:01.325626+00:00
+
+[2019-11-08 19:14:01,331] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.341 seconds
+[2019-11-08 19:14:02,429] {jobs.py:385} INFO - Started process (PID=42338) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:02,432] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:02,433] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:02,434] {logging_mixin.py:95} INFO - [2019-11-08 19:14:02,434] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:02,495] {logging_mixin.py:95} INFO - [2019-11-08 19:14:02,495] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:02,496] {logging_mixin.py:95} INFO - [2019-11-08 19:14:02,496] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:02,525] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:02,718] {logging_mixin.py:95} INFO - [2019-11-08 19:14:02,718] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:02,720] {logging_mixin.py:95} INFO - [2019-11-08 19:14:02,719] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:02.719275+00:00
+
+[2019-11-08 19:14:02,725] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.296 seconds
+[2019-11-08 19:14:03,755] {jobs.py:385} INFO - Started process (PID=42339) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:03,759] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:03,760] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:03,761] {logging_mixin.py:95} INFO - [2019-11-08 19:14:03,760] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:03,819] {logging_mixin.py:95} INFO - [2019-11-08 19:14:03,819] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:03,820] {logging_mixin.py:95} INFO - [2019-11-08 19:14:03,819] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:03,849] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:04,042] {logging_mixin.py:95} INFO - [2019-11-08 19:14:04,042] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:04,044] {logging_mixin.py:95} INFO - [2019-11-08 19:14:04,043] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:04.043381+00:00
+
+[2019-11-08 19:14:04,049] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.294 seconds
+[2019-11-08 19:14:05,078] {jobs.py:385} INFO - Started process (PID=42340) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:05,081] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:05,083] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:05,083] {logging_mixin.py:95} INFO - [2019-11-08 19:14:05,083] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:05,141] {logging_mixin.py:95} INFO - [2019-11-08 19:14:05,141] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:05,141] {logging_mixin.py:95} INFO - [2019-11-08 19:14:05,141] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:05,170] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:05,361] {logging_mixin.py:95} INFO - [2019-11-08 19:14:05,360] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:05,362] {logging_mixin.py:95} INFO - [2019-11-08 19:14:05,361] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:05.361502+00:00
+
+[2019-11-08 19:14:05,367] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.289 seconds
+[2019-11-08 19:14:06,402] {jobs.py:385} INFO - Started process (PID=42341) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:06,406] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:06,407] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:06,407] {logging_mixin.py:95} INFO - [2019-11-08 19:14:06,407] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:06,467] {logging_mixin.py:95} INFO - [2019-11-08 19:14:06,467] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:06,468] {logging_mixin.py:95} INFO - [2019-11-08 19:14:06,468] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:06,499] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:06,740] {logging_mixin.py:95} INFO - [2019-11-08 19:14:06,739] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:06,741] {logging_mixin.py:95} INFO - [2019-11-08 19:14:06,740] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:06.740636+00:00
+
+[2019-11-08 19:14:06,746] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.344 seconds
+[2019-11-08 19:14:07,828] {jobs.py:385} INFO - Started process (PID=42343) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:07,831] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:07,832] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:07,833] {logging_mixin.py:95} INFO - [2019-11-08 19:14:07,833] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:07,898] {logging_mixin.py:95} INFO - [2019-11-08 19:14:07,898] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:07,898] {logging_mixin.py:95} INFO - [2019-11-08 19:14:07,898] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:07,927] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:08,123] {logging_mixin.py:95} INFO - [2019-11-08 19:14:08,122] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:08,137] {logging_mixin.py:95} INFO - [2019-11-08 19:14:08,136] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:08.136541+00:00
+
+[2019-11-08 19:14:08,144] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.316 seconds
+[2019-11-08 19:14:09,260] {jobs.py:385} INFO - Started process (PID=42344) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:09,263] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:09,265] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:09,265] {logging_mixin.py:95} INFO - [2019-11-08 19:14:09,265] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:09,322] {logging_mixin.py:95} INFO - [2019-11-08 19:14:09,322] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:09,323] {logging_mixin.py:95} INFO - [2019-11-08 19:14:09,323] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:09,352] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:09,544] {logging_mixin.py:95} INFO - [2019-11-08 19:14:09,543] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:09,545] {logging_mixin.py:95} INFO - [2019-11-08 19:14:09,544] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:09.544597+00:00
+
+[2019-11-08 19:14:09,550] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.290 seconds
+[2019-11-08 19:14:10,581] {jobs.py:385} INFO - Started process (PID=42347) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:10,584] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:10,586] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:10,586] {logging_mixin.py:95} INFO - [2019-11-08 19:14:10,586] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:10,645] {logging_mixin.py:95} INFO - [2019-11-08 19:14:10,645] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:10,646] {logging_mixin.py:95} INFO - [2019-11-08 19:14:10,646] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:10,675] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:10,869] {logging_mixin.py:95} INFO - [2019-11-08 19:14:10,869] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:10,871] {logging_mixin.py:95} INFO - [2019-11-08 19:14:10,870] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:10.870368+00:00
+
+[2019-11-08 19:14:10,875] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.295 seconds
+[2019-11-08 19:14:11,999] {jobs.py:385} INFO - Started process (PID=42348) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:12,002] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:12,004] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:12,004] {logging_mixin.py:95} INFO - [2019-11-08 19:14:12,004] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:12,063] {logging_mixin.py:95} INFO - [2019-11-08 19:14:12,062] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:12,063] {logging_mixin.py:95} INFO - [2019-11-08 19:14:12,063] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:12,093] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:12,339] {logging_mixin.py:95} INFO - [2019-11-08 19:14:12,339] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:12,341] {logging_mixin.py:95} INFO - [2019-11-08 19:14:12,340] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:12.340321+00:00
+
+[2019-11-08 19:14:12,345] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.347 seconds
+[2019-11-08 19:14:13,430] {jobs.py:385} INFO - Started process (PID=42349) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:13,434] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:13,435] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:13,436] {logging_mixin.py:95} INFO - [2019-11-08 19:14:13,436] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:13,499] {logging_mixin.py:95} INFO - [2019-11-08 19:14:13,499] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:13,500] {logging_mixin.py:95} INFO - [2019-11-08 19:14:13,500] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:13,530] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:13,726] {logging_mixin.py:95} INFO - [2019-11-08 19:14:13,726] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:13,727] {logging_mixin.py:95} INFO - [2019-11-08 19:14:13,726] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:13.726944+00:00
+
+[2019-11-08 19:14:13,732] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.302 seconds
+[2019-11-08 19:14:14,861] {jobs.py:385} INFO - Started process (PID=42358) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:14,864] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:14,866] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:14,866] {logging_mixin.py:95} INFO - [2019-11-08 19:14:14,866] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:14,925] {logging_mixin.py:95} INFO - [2019-11-08 19:14:14,925] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:14,926] {logging_mixin.py:95} INFO - [2019-11-08 19:14:14,926] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:14,953] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:15,144] {logging_mixin.py:95} INFO - [2019-11-08 19:14:15,143] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:15,145] {logging_mixin.py:95} INFO - [2019-11-08 19:14:15,144] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:15.144710+00:00
+
+[2019-11-08 19:14:15,150] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.289 seconds
+[2019-11-08 19:14:16,177] {jobs.py:385} INFO - Started process (PID=42360) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:16,181] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:16,182] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:16,183] {logging_mixin.py:95} INFO - [2019-11-08 19:14:16,183] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:16,245] {logging_mixin.py:95} INFO - [2019-11-08 19:14:16,244] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:16,245] {logging_mixin.py:95} INFO - [2019-11-08 19:14:16,245] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:16,276] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:16,473] {logging_mixin.py:95} INFO - [2019-11-08 19:14:16,473] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:16,475] {logging_mixin.py:95} INFO - [2019-11-08 19:14:16,474] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:16.474485+00:00
+
+[2019-11-08 19:14:16,480] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.303 seconds
+[2019-11-08 19:14:17,602] {jobs.py:385} INFO - Started process (PID=42368) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:17,605] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:17,606] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:17,607] {logging_mixin.py:95} INFO - [2019-11-08 19:14:17,607] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:17,666] {logging_mixin.py:95} INFO - [2019-11-08 19:14:17,665] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:17,666] {logging_mixin.py:95} INFO - [2019-11-08 19:14:17,666] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:17,695] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:17,889] {logging_mixin.py:95} INFO - [2019-11-08 19:14:17,888] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:17,890] {logging_mixin.py:95} INFO - [2019-11-08 19:14:17,889] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:17.889709+00:00
+
+[2019-11-08 19:14:17,895] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.294 seconds
+[2019-11-08 19:14:18,935] {jobs.py:385} INFO - Started process (PID=42369) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:18,938] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:18,940] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:18,940] {logging_mixin.py:95} INFO - [2019-11-08 19:14:18,940] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:19,000] {logging_mixin.py:95} INFO - [2019-11-08 19:14:19,000] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:19,000] {logging_mixin.py:95} INFO - [2019-11-08 19:14:19,000] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:19,030] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:19,246] {logging_mixin.py:95} INFO - [2019-11-08 19:14:19,245] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:19,247] {logging_mixin.py:95} INFO - [2019-11-08 19:14:19,246] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:19.246472+00:00
+
+[2019-11-08 19:14:19,252] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.317 seconds
+[2019-11-08 19:14:20,359] {jobs.py:385} INFO - Started process (PID=42372) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:20,362] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:20,363] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:20,364] {logging_mixin.py:95} INFO - [2019-11-08 19:14:20,364] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:20,432] {logging_mixin.py:95} INFO - [2019-11-08 19:14:20,432] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:20,433] {logging_mixin.py:95} INFO - [2019-11-08 19:14:20,433] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:20,464] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:20,672] {logging_mixin.py:95} INFO - [2019-11-08 19:14:20,671] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:20,676] {logging_mixin.py:95} INFO - [2019-11-08 19:14:20,673] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:20.673631+00:00
+
+[2019-11-08 19:14:20,683] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.324 seconds
+[2019-11-08 19:14:21,775] {jobs.py:385} INFO - Started process (PID=42373) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:21,778] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:21,780] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:21,780] {logging_mixin.py:95} INFO - [2019-11-08 19:14:21,780] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:21,845] {logging_mixin.py:95} INFO - [2019-11-08 19:14:21,845] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:21,845] {logging_mixin.py:95} INFO - [2019-11-08 19:14:21,845] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:21,873] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:22,061] {logging_mixin.py:95} INFO - [2019-11-08 19:14:22,060] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:22,062] {logging_mixin.py:95} INFO - [2019-11-08 19:14:22,061] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:22.061520+00:00
+
+[2019-11-08 19:14:22,067] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.292 seconds
+[2019-11-08 19:14:23,087] {jobs.py:385} INFO - Started process (PID=42374) to work on /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:23,090] {jobs.py:580} ERROR - Cannot use more than 1 thread when using sqlite. Setting max_threads to 1
+[2019-11-08 19:14:23,091] {jobs.py:1782} INFO - Processing file /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py for tasks to queue
+[2019-11-08 19:14:23,092] {logging_mixin.py:95} INFO - [2019-11-08 19:14:23,092] {models.py:258} INFO - Filling up the DagBag from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+
+[2019-11-08 19:14:23,150] {logging_mixin.py:95} INFO - [2019-11-08 19:14:23,149] {example_kubernetes_operator.py:54} WARNING - Could not import KubernetesPodOperator: No module named kubernetes
+
+[2019-11-08 19:14:23,150] {logging_mixin.py:95} INFO - [2019-11-08 19:14:23,150] {example_kubernetes_operator.py:55} WARNING - Install kubernetes dependencies with:     pip install airflow['kubernetes']
+
+[2019-11-08 19:14:23,183] {jobs.py:1794} INFO - DAG(s) ['example_skip_dag', 'test_utils', 'example_subdag_operator.section-2', 'example_subdag_operator.section-1', 'latest_only', 'example_passing_params_via_test_command', 'example_python_operator', 'example_bash_operator', 'latest_only_with_trigger', 'hello_world', 'example_trigger_target_dag', 'example_branch_operator', 'tutorial', 'example_http_operator', 'example_xcom', 'example_branch_dop_operator_v3', 'example_kubernetes_executor', 'example_trigger_controller_dag', 'example_short_circuit_operator', 'example_subdag_operator'] retrieved from /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py
+[2019-11-08 19:14:23,370] {logging_mixin.py:95} INFO - [2019-11-08 19:14:23,370] {models.py:432} INFO - Finding 'running' jobs without a recent heartbeat
+
+[2019-11-08 19:14:23,371] {logging_mixin.py:95} INFO - [2019-11-08 19:14:23,371] {models.py:436} INFO - Failing jobs without heartbeat after 2019-11-08 13:39:23.371004+00:00
+
+[2019-11-08 19:14:23,376] {jobs.py:392} INFO - Processing /Users/sdeshwal/Desktop/odsc/airflow_home/dags/hello_world.py took 0.289 seconds
